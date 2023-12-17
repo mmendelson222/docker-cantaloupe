@@ -67,10 +67,10 @@
     <cantaloupe.version>5.0.5</cantaloupe.version>
     <cantaloupe.commit.ref></cantaloupe.commit.ref>
     <cantaloupe.apply.patchfiles>false</cantaloupe.apply.patchfiles>
-    <kakadu.version></kakadu.version>
+    <kakadu.version>v8_4_1-02178E</kakadu.version>
 
     <!-- Git repo with Kakadu source code (ours is private; override with yours) -->
-    <kakadu.git.repo>scm:git:git@github.com:uclalibrary/kakadu.git</kakadu.git.repo>
+    <kakadu.git.repo>scm:git:git@github.com:mmendelson222/kakadu.git</kakadu.git.repo>
 
     <!-- Docker container dependency versions -->
     <!-- https://packages.ubuntu.com/search?keywords=search -->
@@ -78,7 +78,7 @@
     <openjdk.version>17.0.8.1+1~us1-0ubuntu1~22.04</openjdk.version>
     <gcc.version>4:11.2.0-1ubuntu1</gcc.version>
     <make.version>4.3-4.1build1</make.version>
-    <libtiff.version>4.3.0-6ubuntu0.6</libtiff.version>
+    <libtiff.version>4.3.0-6ubuntu0.7</libtiff.version>
     <build.essential.version>12.9ubuntu3</build.essential.version>
     <libopenjp2.version>2.4.0-6</libopenjp2.version>
     <libturbojpeg.version>2.1.2-0ubuntu1</libturbojpeg.version>
